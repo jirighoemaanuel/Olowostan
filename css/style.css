@@ -217,6 +217,7 @@ header.scrolled .logo {
   padding: 120px 0;
   width: 100%;
   overflow-x: hidden;
+  position: relative;
 }
 
 .showcase-area .container {
